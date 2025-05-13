@@ -39,7 +39,7 @@ jobs:
             region: "TGY"
             imei: "352576781117778"
           - model: "SM-F936B"
-            region: "EUB"
+            region: "EUX"
             imei: "352334702753390"
           - model: "SCG16"
             region: "KDI"
